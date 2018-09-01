@@ -60,8 +60,7 @@ if (!file.exists(path)) {dir.create(path)}
 download.file(url, file.path(path, f))
 ```
 
-Unzip the file. **This was already done on 2014-04-11; save time and don't evaluate again.**
-
+Unzip the file.
 ```{r, eval=FALSE}
 executable <- file.path("C:", "Program Files (x86)", "7-Zip", "7z.exe")
 parameters <- "x"
