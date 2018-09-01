@@ -51,7 +51,7 @@ path
 Get the data
 ------------
 
-Download the file. Put it in the `Data` folder. **This was already done on 2014-04-11; save time and don't evaluate again.**
+Download the file. Put it in the `Data` folder. 
 
 ```{r, eval=FALSE}
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
